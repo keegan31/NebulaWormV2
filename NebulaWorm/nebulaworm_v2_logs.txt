@@ -1,0 +1,19 @@
+[+] NebulaWorm v2 Development Log
+    Generated on: 2025-07-16
+
+[✔] Anti-Debug & Anti-VM Detection Upgraded
+[✔] WMI Persistence 
+[✔] AMSI Bypass 
+[✔] Optional Control Module (Kill)
+[✔] CPU Load (Optional Module)
+[✔] ETW Bypass 
+[✔] NTDLL Unhooking Restoration
+[✔] UAC Bypass 
+[✔] Set Process as Critical (Hard to Kill)
+[✔] DPI Awareness Bypass 
+[✔] Anti-Recovery Wipe 
+[✔] Remote Command Execution Server 
+[✔] Windows Defender Bypass 
+[✔] LAN Spread with CVE-2020-0796 Scanner 
+
+
